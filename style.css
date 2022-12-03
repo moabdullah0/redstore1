@@ -1,0 +1,145 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+nav .navbar-brand{
+    width: 200px;
+    margin: 20px;
+   
+}
+
+section .navbar .nav-link a:hover{
+    background: #ffd6d6;
+}
+.main{
+    margin-bottom: 100%;
+   
+}
+
+section div .c1{
+    font-size: larger;
+    font-weight: bold;
+   transition: all 0.5s;
+}
+section div .c2{
+    font-size: larger;
+    font-weight: bold;
+transition: all 0.5s;
+}
+section div .c3{
+    font-size: larger;
+    font-weight: bold;
+   transition: all 0.5s;
+}
+section div .c4{
+    font-size: larger;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+section div .c1:hover{
+    font-size: larger;
+    font-weight: bold;
+    transform: translateY(5%);;
+}
+section div .c2:hover{
+    font-size: larger;
+    font-weight: bold;
+    transform: translateY(5%);;
+}
+section div .c3:hover{
+    font-size: larger;
+    font-weight: bold;
+    transform: translateY(5%);;
+}
+section div .c4:hover{
+    font-size: larger;
+    font-weight: bold;
+    transform: translateY(5%);;
+}
+
+section div .c5{
+    font-size: larger;
+    font-weight: bold;
+   transition: all 0.5s;
+}
+section div .c6{
+    font-size: larger;
+    font-weight: bold;
+transition: all 0.5s;
+}
+section div .c7{
+    font-size: larger;
+    font-weight: bold;
+   transition: all 0.5s;
+}
+section div .c8{
+    font-size: larger;
+    font-weight: bold;
+    transition: all 0.5s;
+}
+section div .c5:hover{
+    font-size: larger;
+    font-weight: bold;
+    transform: translateY(5%);;
+}
+section div .c6:hover{
+    font-size: larger;
+    font-weight: bold;
+    transform: translateY(5%);;
+}
+section div .c7:hover{
+    font-size: larger;
+    font-weight: bold;
+    transform: translateY(5%);;
+}
+section div .c8:hover{
+    font-size: larger;
+    font-weight: bold;
+    transform: translateY(5%);;
+}
+section div .textee{
+    font-size: 700;
+    font-weight: bold;
+}
+.offer{
+    background: radial-gradient(#fff,#ffd6d6);
+
+}
+section div .c9{
+    font-size: larger;
+    font-weight: bold;
+   transition: all 0.5s;
+}
+section div .c10{
+    font-size: larger;
+    font-weight: bold;
+transition: all 0.5s;
+}
+section div .c11{
+    font-size: larger;
+    font-weight: bold;
+   transition: all 0.5s;
+}
+
+section div .c9:hover{
+    font-size: larger;
+    font-weight: bold;
+    transform: translateY(5%);;
+}
+section div .c10:hover{
+    font-size: larger;
+    font-weight: bold;
+    transform: translateY(5%);;
+}
+section div .c11:hover{
+    font-size: larger;
+    font-weight: bold;
+    transform: translateY(5%);;
+}
+section div .fa{
+    color: #d43131;
+}
